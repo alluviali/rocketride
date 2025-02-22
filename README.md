@@ -2,6 +2,7 @@
 ### - Development? Done
 
 <img src="site/www/img/inspection.jpg" alt="image of woman" width="600">
+<p>© 2025 Alluviali. All rights reserved.</p>
 
 ---
 ## A *growing collection* of ***prompts***, *conversations* and *chats* (sans responses) for developing developer tools that develop full cycle software projects. 
@@ -233,3 +234,8 @@ Comply with [alluviali/rocketride spec](https://github.com/alluviali/rocketride/
 ## Pruning
  - won't prune `current` or those with a newer commit timestamp than the `current` file pointer
  
+# License
+
+Most content released under MIT license with exception of the /site directory, and other branding-related content and images specific to github.com/alluviali/rocketride
+
+See [NOTICE](NOTICE), [LICENSE](LICENSE) for details
